@@ -1,4 +1,4 @@
-![banner](background-slim.png)
+![banner](bitbrain/background-slim.png)
 
 ☕️ German "full-stack" engineer<br/>
 🤖 game developer<br/>
